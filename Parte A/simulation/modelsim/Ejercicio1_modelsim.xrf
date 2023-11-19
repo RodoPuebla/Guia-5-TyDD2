@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/rodri/OneDrive/Desktop/Guia 5 TyDD2/Parte A/Ejercicio1.vhd
+source_file = 1, C:/Users/rodri/OneDrive/Desktop/Guia 5 TyDD2/Parte A/Waveform.vwf
+source_file = 1, C:/Users/rodri/OneDrive/Desktop/Guia 5 TyDD2/Parte A/db/Ejercicio1.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = Ejercicio1
+instance = comp, \LED~output , LED~output, Ejercicio1, 1
+instance = comp, \SW2~input , SW2~input, Ejercicio1, 1
+instance = comp, \SW1~input , SW1~input, Ejercicio1, 1
+instance = comp, \LED~0 , LED~0, Ejercicio1, 1
