@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/rodri/OneDrive/Desktop/Guia 5 TyDD2/Parte B/D_FF.vhd
+source_file = 1, C:/Users/rodri/OneDrive/Desktop/Guia 5 TyDD2/Parte B/sumador_completo.vhd
+source_file = 1, C:/Users/rodri/OneDrive/Desktop/Guia 5 TyDD2/Parte B/sumador_completo_testbech.vhd
+source_file = 1, C:/Users/rodri/OneDrive/Desktop/Guia 5 TyDD2/Parte B/db/D_FF.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = D_FF
+instance = comp, \Q~output\, Q~output, D_FF, 1
+instance = comp, \CLOCK~input\, CLOCK~input, D_FF, 1
+instance = comp, \D~input\, D~input, D_FF, 1
+instance = comp, \Q~reg0\, Q~reg0, D_FF, 1
